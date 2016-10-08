@@ -5,7 +5,7 @@
 # MIT License
 #
 # calc_k_with_gap
-#   python implementation of an algorithm to finding k for k-means clustering
+#   A python implementation of an algorithm to finding k for k-means clustering
 # 
 # Gap statistic defined in
 # Tibshirani, Walther, Hastie:
